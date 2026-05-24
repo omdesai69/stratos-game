@@ -7,11 +7,19 @@
   [![Capacitor](https://img.shields.io/badge/Capacitor-7.4.4-119EFF.svg?style=flat&logo=capacitor)](https://capacitorjs.com/)
   [![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC.svg?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178C6.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+  [![Vercel](https://img.shields.io/badge/Deployed-Vercel-black.svg?style=flat&logo=vercel)](https://stratos-opal.vercel.app/)
 </div>
 
 <br/>
 
 Stratos is a visually stunning, browser-based endless runner where you pilot an advanced spacecraft through procedurally generated cosmic hazards. Dodge asteroids, navigate nebulas, outmaneuver homing mines, and survive massive laser grids to see how far you can travel into deep space.
+
+---
+
+## 🚀 Live Demo
+
+**Play the game instantly in your browser:**  
+🔗 **[https://stratos-opal.vercel.app](https://stratos-opal.vercel.app)**
 
 ---
 
